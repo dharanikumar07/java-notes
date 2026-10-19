@@ -1,0 +1,513 @@
+{
+  "main": {
+    "id": "69245879f736caf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ee978332489044",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d842ffa25479207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL — Primary Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL — Primary Keys"
+            }
+          },
+          {
+            "id": "3f4718cfd6e917b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL — Primary Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL — Primary Keys"
+            }
+          },
+          {
+            "id": "511cb3eb63845ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL — Foreign Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL — Foreign Keys"
+            }
+          },
+          {
+            "id": "db869fab2c773edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/PostgreSQL — Generated Columns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL — Generated Columns"
+            }
+          },
+          {
+            "id": "0ff42e5530e9afad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/charateristics of index and btree structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "charateristics of index and btree structure"
+            }
+          },
+          {
+            "id": "d524db994d70a312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/where add to index and composite index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "where add to index and composite index"
+            }
+          },
+          {
+            "id": "8d7a9fb446878fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "postgresql/Explain and analyse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Explain and analyse"
+            }
+          },
+          {
+            "id": "7b01980d1adaa00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maven/maven in ide, maven, getting dependency,.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "maven in ide, maven, getting dependency,"
+            }
+          },
+          {
+            "id": "5041fb54d71b06fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/jdbc introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jdbc introduction"
+            }
+          },
+          {
+            "id": "09715f6642763c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/PostgreSQL Setup for JDBC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL Setup for JDBC"
+            }
+          },
+          {
+            "id": "118acd2e2ff70675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/PostgreSQL Setup for JDBC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL Setup for JDBC"
+            }
+          },
+          {
+            "id": "a0d99dcf0c3cc041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/JDBC Driver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JDBC Driver"
+            }
+          },
+          {
+            "id": "88d11da73103f997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/Connecting Java and PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Connecting Java and PostgreSQL"
+            }
+          },
+          {
+            "id": "8fd04f4b43cf8d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/Execute and Process JDBC Queries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Execute and Process JDBC Queries"
+            }
+          },
+          {
+            "id": "3044e5da04ccf242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "jdbc/Fetching All Records Using JDBC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fetching All Records Using JDBC"
+            }
+          },
+          {
+            "id": "e9af208b52927292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jdbc crud operation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jdbc crud operation"
+            }
+          },
+          {
+            "id": "98b8d63f06fbb8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems with Statement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Problems with Statement"
+            }
+          },
+          {
+            "id": "f6075c01013a919f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate/what is Hibernate?.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is Hibernate?"
+            }
+          },
+          {
+            "id": "5652951520367844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate/Hibernate – Basic Operations & Annotations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hibernate – Basic Operations & Annotations"
+            }
+          },
+          {
+            "id": "3a6199c84d333659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate/Hibernate – Eager vs Lazy Fetching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hibernate – Eager vs Lazy Fetching"
+            }
+          },
+          {
+            "id": "70fefbb81e30e123",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hibernate/Hibernate – Get vs Load & Level 2 Cache.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hibernate – Get vs Load & Level 2 Cache"
+            }
+          }
+        ],
+        "currentTab": 20
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58751102095b8618",
+    "type": "split",
+    "children": [
+      {
+        "id": "43dd2b952c5615f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05bd867cdfaa466",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "77dbca116b340650",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "61b8aecd6b2132de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ece369b3c6f0ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc75ba3a6080ea34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dea89952fb66b3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "534692b5c3313669",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "50f203b3f5b5873f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a470761a404347ee",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "728dc787edf6c94a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data types.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a05bd867cdfaa466",
+  "lastOpenFiles": [
+    "Hibernate/Hibernate – Eager vs Lazy Fetching.md",
+    "Hibernate/Hibernate – Get vs Load & Level 2 Cache.md",
+    "jdbc/Problems with Statement.md",
+    "Hibernate/Hibernate – Basic Operations & Annotations.md",
+    "Hibernate/what is Hibernate?.md",
+    "Hibernate",
+    "Jdbc crud operation.md",
+    "jdbc/Fetching All Records Using JDBC.md",
+    "jdbc/Execute and Process JDBC Queries.md",
+    "jdbc/Connecting Java and PostgreSQL.md",
+    "jdbc/JDBC Driver.md",
+    "jdbc/PostgreSQL Setup for JDBC.md",
+    "jdbc/jdbc steps.md",
+    "jdbc/jdbc introduction.md",
+    "jdbc",
+    "maven/maven in ide, maven, getting dependency,.md",
+    "postgresql/Explain and analyse.md",
+    "maven",
+    "postgresql/where add to index and composite index.md",
+    "postgresql/charateristics of index and btree structure.md",
+    "postgresql/PostgreSQL — Generated Columns.md",
+    "postgresql/PostgreSQL — Foreign Keys.md",
+    "postgresql/PostgreSQL — Primary Keys.md",
+    "postgresql/PostgreSQL — Date & Time Types.md",
+    "postgresql/PostgreSQL — CHECK Constraints.md",
+    "postgresql/Joins/Orphaned data and union.md",
+    "postgresql/modifying data/insert-update-upsert.md",
+    "data types.md",
+    "Package.md",
+    "postgresql/modifying data",
+    "postgresql/Joins",
+    "postgresql",
+    "collection framework",
+    "oops/inheritance",
+    "ChatGPT Image Aug 15, 2026, 11_21_35 AM.png",
+    "oops",
+    "string",
+    "Untitled.canvas"
+  ]
+}
