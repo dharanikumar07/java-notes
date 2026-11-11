@@ -4,305 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00ee978332489044",
+        "id": "78aaacc013682cb0",
         "type": "tabs",
         "children": [
           {
-            "id": "4d842ffa25479207",
+            "id": "fa7fddb30af1c4dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "postgresql/PostgreSQL — Primary Keys.md",
-                "mode": "source",
-                "source": false
+                "file": "ChatGPT Image Aug 15, 2026, 11_21_35 AM.png"
               },
-              "icon": "lucide-file",
-              "title": "PostgreSQL — Primary Keys"
-            }
-          },
-          {
-            "id": "3f4718cfd6e917b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/PostgreSQL — Primary Keys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL — Primary Keys"
-            }
-          },
-          {
-            "id": "511cb3eb63845ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/PostgreSQL — Foreign Keys.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL — Foreign Keys"
-            }
-          },
-          {
-            "id": "db869fab2c773edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/PostgreSQL — Generated Columns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL — Generated Columns"
-            }
-          },
-          {
-            "id": "0ff42e5530e9afad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/charateristics of index and btree structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "charateristics of index and btree structure"
-            }
-          },
-          {
-            "id": "d524db994d70a312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/where add to index and composite index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "where add to index and composite index"
-            }
-          },
-          {
-            "id": "8d7a9fb446878fd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "postgresql/Explain and analyse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Explain and analyse"
-            }
-          },
-          {
-            "id": "7b01980d1adaa00d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "maven/maven in ide, maven, getting dependency,.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "maven in ide, maven, getting dependency,"
-            }
-          },
-          {
-            "id": "5041fb54d71b06fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/jdbc introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "jdbc introduction"
-            }
-          },
-          {
-            "id": "09715f6642763c2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/PostgreSQL Setup for JDBC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL Setup for JDBC"
-            }
-          },
-          {
-            "id": "118acd2e2ff70675",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/PostgreSQL Setup for JDBC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL Setup for JDBC"
-            }
-          },
-          {
-            "id": "a0d99dcf0c3cc041",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/JDBC Driver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JDBC Driver"
-            }
-          },
-          {
-            "id": "88d11da73103f997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/Connecting Java and PostgreSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Connecting Java and PostgreSQL"
-            }
-          },
-          {
-            "id": "8fd04f4b43cf8d5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/Execute and Process JDBC Queries.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Execute and Process JDBC Queries"
-            }
-          },
-          {
-            "id": "3044e5da04ccf242",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jdbc/Fetching All Records Using JDBC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fetching All Records Using JDBC"
-            }
-          },
-          {
-            "id": "e9af208b52927292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jdbc crud operation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jdbc crud operation"
-            }
-          },
-          {
-            "id": "98b8d63f06fbb8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems with Statement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problems with Statement"
-            }
-          },
-          {
-            "id": "f6075c01013a919f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate/what is Hibernate?.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "what is Hibernate?"
-            }
-          },
-          {
-            "id": "5652951520367844",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate/Hibernate – Basic Operations & Annotations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hibernate – Basic Operations & Annotations"
-            }
-          },
-          {
-            "id": "3a6199c84d333659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate/Hibernate – Eager vs Lazy Fetching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hibernate – Eager vs Lazy Fetching"
-            }
-          },
-          {
-            "id": "70fefbb81e30e123",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hibernate/Hibernate – Get vs Load & Level 2 Cache.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hibernate – Get vs Load & Level 2 Cache"
+              "icon": "lucide-image",
+              "title": "ChatGPT Image Aug 15, 2026, 11_21_35 AM"
             }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -469,37 +186,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "a05bd867cdfaa466",
+  "active": "fa7fddb30af1c4dd",
   "lastOpenFiles": [
-    "Hibernate/Hibernate – Eager vs Lazy Fetching.md",
-    "Hibernate/Hibernate – Get vs Load & Level 2 Cache.md",
-    "jdbc/Problems with Statement.md",
-    "Hibernate/Hibernate – Basic Operations & Annotations.md",
-    "Hibernate/what is Hibernate?.md",
-    "Hibernate",
-    "Jdbc crud operation.md",
-    "jdbc/Fetching All Records Using JDBC.md",
-    "jdbc/Execute and Process JDBC Queries.md",
-    "jdbc/Connecting Java and PostgreSQL.md",
-    "jdbc/JDBC Driver.md",
-    "jdbc/PostgreSQL Setup for JDBC.md",
-    "jdbc/jdbc steps.md",
     "jdbc/jdbc introduction.md",
-    "jdbc",
     "maven/maven in ide, maven, getting dependency,.md",
     "postgresql/Explain and analyse.md",
-    "maven",
     "postgresql/where add to index and composite index.md",
     "postgresql/charateristics of index and btree structure.md",
     "postgresql/PostgreSQL — Generated Columns.md",
     "postgresql/PostgreSQL — Foreign Keys.md",
+    "Jdbc crud operation.md",
+    "jdbc/Fetching All Records Using JDBC.md",
+    "jdbc/Execute and Process JDBC Queries.md",
+    "jdbc/Connecting Java and PostgreSQL.md",
+    "jdbc/Problems with Statement.md",
+    "Spring/Spring – IoC and DI.md",
+    "Hibernate/Hibernate – Get vs Load & Level 2 Cache.md",
+    "Hibernate/Hibernate – Eager vs Lazy Fetching.md",
+    "Hibernate/Hibernate – Basic Operations & Annotations.md",
+    "Hibernate/what is Hibernate?.md",
+    "Spring/Spring vs Spring Boot.md",
+    "Spring",
+    "Hibernate",
+    "jdbc/JDBC Driver.md",
+    "jdbc/PostgreSQL Setup for JDBC.md",
+    "jdbc/jdbc steps.md",
+    "jdbc",
+    "maven",
     "postgresql/PostgreSQL — Primary Keys.md",
     "postgresql/PostgreSQL — Date & Time Types.md",
     "postgresql/PostgreSQL — CHECK Constraints.md",
     "postgresql/Joins/Orphaned data and union.md",
     "postgresql/modifying data/insert-update-upsert.md",
-    "data types.md",
-    "Package.md",
     "postgresql/modifying data",
     "postgresql/Joins",
     "postgresql",
@@ -507,7 +225,6 @@
     "oops/inheritance",
     "ChatGPT Image Aug 15, 2026, 11_21_35 AM.png",
     "oops",
-    "string",
     "Untitled.canvas"
   ]
 }
