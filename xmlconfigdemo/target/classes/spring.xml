@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+    <bean id="alien1" class="com.example.Alien" >
+
+    </bean>
+
+    <!-- it creates another object (2) -->
+    <bean id="alien2" class="com.example.Alien" >
+        <!-- <property name="age" value="30"> </property>
+        <property name="lap" ref="lap"> </property> -->
+
+        <!-- <constructor-arg value="21" />
+        <constructor-arg ref="lap" /> -->
+
+        <!--		<constructor-arg type="com.telusko.Laptop" ref="lap1"/>
+		<constructor-arg type="int" value="21"/> -->
+
+        <!--		<constructor-arg index="1" ref="lap1"/>
+		<constructor-arg index="0" value="21"/> this method is commonly used other that are sequencially taken-->
+		
+		<constructor-arg name="age" value="40"/>
+        <constructor-arg name="lap" ref="lap"/>
+
+    </bean>
+
+    <bean id="lap" class="com.example.Laptop" >
+
+    </bean>
+
+</beans>
