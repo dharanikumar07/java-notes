@@ -1,8 +1,12 @@
 package com.example;
 
-public class Laptop {
-  public String printCompile()
-  {
-    return "Compiling ... ";
+public class Laptop implements Computer {
+
+  public Laptop() {
+    System.out.println("Laptop object created");
+  }
+
+  public void code() {
+    System.out.println("Coding in laptop ");
   }
 }

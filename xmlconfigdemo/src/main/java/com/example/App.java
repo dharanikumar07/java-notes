@@ -16,6 +16,11 @@ public class App
         obj.code();
         //from xml file
         System.out.println(obj.getAge());
-        System.out.println(obj.getLap().printCompile());
+        obj.getCom().code();
+        
+        //Laptop lap = (Laptop) context.getBean("lap");
+
+       // Laptop lap = context.getBean(Laptop.class);
+        // Computer com1 =  context.getBean(Computer.class); // it confused because computer has two implementation lap, desktop using primary it takes class
     }
 }

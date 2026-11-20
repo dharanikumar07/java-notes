@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "78aaacc013682cb0",
+        "id": "3f1b3e4fc07fb91d",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7fddb30af1c4dd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ChatGPT Image Aug 15, 2026, 11_21_35 AM.png"
-              },
-              "icon": "lucide-image",
-              "title": "ChatGPT Image Aug 15, 2026, 11_21_35 AM"
-            }
-          },
-          {
-            "id": "c45c1687fad818b3",
+            "id": "1ec9087cbf298f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Spring – @Component and Beans.md",
+                "file": "Spring/spring data jpa/Spring Data JPA – JPQL and Derived Query Methods (DSL).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring – @Component and Beans"
-            }
-          },
-          {
-            "id": "a3c887f697afc910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring – @Autowired.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spring – @Autowired"
+              "title": "Spring Data JPA – JPQL and Derived Query Methods (DSL)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,45 +188,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "a3c887f697afc910",
+  "active": "1ec9087cbf298f5c",
   "lastOpenFiles": [
-    "Spring/Spring – @Component and Beans.md",
-    "Spring – @Autowired.md",
+    "Spring/spring data jpa/Spring Data JPA – CRUD Operations.md",
+    "Spring/spring data jpa/Spring Data JPA – JPQL and Derived Query Methods (DSL).md",
+    "Spring/spring data jpa/Spring Data JPA – Introduction, ORM and JPA.md",
+    "Spring/restapi/REST API Implementation in Spring Boot.md",
+    "Spring/spring data jpa",
+    "Spring/restapi/REST API Fundamentals.md",
+    "Spring/Spring MVC Setup (Without Spring Boot).md",
+    "Spring/restapi",
+    "Spring/DispatcherServlet & InternalResourceViewResolver.md",
+    "Spring/Spring boot wetb (servlet and jsp)/Spring Boot with Thymeleaf.md",
+    "Spring/Spring boot wetb (servlet and jsp)/@ModelAttribute in Spring MVC.md",
+    "Spring/Spring boot wetb (servlet and jsp)/Spring MVC – RequestParam, Model & ModelAndView.md",
+    "Spring/Spring boot wetb (servlet and jsp)/Spring MVC – Request Mapping & Data Handling.md",
+    "Spring/Spring boot wetb (servlet and jsp)/Spring MVC – Introduction & Project Setup.md",
+    "Spring/Spring boot wetb (servlet and jsp)/Java Web Application – Servlet, Tomcat & JSP.md",
+    "Spring/Xml based config/Spring XML Configuration – Basics.md",
+    "Spring/easy remembering about servlet and jsp.md",
+    "Spring/Spring boot wetb (servlet and jsp)",
+    "Spring/JSP (JavaServer Pages).md",
+    "Spring/Servlet in Java.md",
+    "Spring/Spring Jdbc/Spring JDBC – Schema, Data Files, RowMapper & PostgreSQL.md",
+    "Spring/Spring Jdbc/Spring JDBC – Introduction, Project Setup & JdbcTemplate.md",
+    "Spring/Java based + annotation based config/Spring Annotation-Based Configuration – Advanced.md",
+    "Spring/Spring Jdbc",
+    "Spring/Java based + annotation based config/Spring Annotation-Based Configuration – DI.md",
+    "Spring/Java based + annotation based config/Spring Java-Based Configuration.md",
+    "Spring/Java based + annotation based config",
     "ChatGPT Image Aug 15, 2026, 11_21_35 AM.png",
-    "jdbc/jdbc introduction.md",
-    "maven/maven in ide, maven, getting dependency,.md",
-    "postgresql/Explain and analyse.md",
-    "postgresql/where add to index and composite index.md",
-    "postgresql/charateristics of index and btree structure.md",
-    "postgresql/PostgreSQL — Generated Columns.md",
-    "postgresql/PostgreSQL — Foreign Keys.md",
-    "Jdbc crud operation.md",
-    "jdbc/Fetching All Records Using JDBC.md",
-    "jdbc/Execute and Process JDBC Queries.md",
-    "jdbc/Connecting Java and PostgreSQL.md",
-    "jdbc/Problems with Statement.md",
-    "Spring/Spring – IoC and DI.md",
-    "Hibernate/Hibernate – Get vs Load & Level 2 Cache.md",
-    "Hibernate/Hibernate – Eager vs Lazy Fetching.md",
-    "Hibernate/Hibernate – Basic Operations & Annotations.md",
-    "Hibernate/what is Hibernate?.md",
-    "Spring/Spring vs Spring Boot.md",
+    "Spring/Spring – @Component and Beans.md",
+    "Spring/Xml based config/Spring XML Configuration – Advanced.md",
+    "Spring/Xml based config/Spring XML Configuration – Dependency Injection.md",
+    "Spring – @Autowired.md",
+    "Spring/Xml based config",
     "Spring",
     "Hibernate",
-    "jdbc/JDBC Driver.md",
-    "jdbc/PostgreSQL Setup for JDBC.md",
-    "jdbc/jdbc steps.md",
     "jdbc",
     "maven",
-    "postgresql/PostgreSQL — Primary Keys.md",
-    "postgresql/PostgreSQL — Date & Time Types.md",
-    "postgresql/PostgreSQL — CHECK Constraints.md",
-    "postgresql/modifying data",
-    "postgresql/Joins",
-    "postgresql",
-    "collection framework",
-    "oops/inheritance",
-    "oops",
     "Untitled.canvas"
   ]
 }

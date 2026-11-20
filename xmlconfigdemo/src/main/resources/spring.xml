@@ -10,9 +10,13 @@
     </bean>
 
     <!-- it creates another object (2) -->
-    <bean id="alien2" class="com.example.Alien" >
-        <!-- <property name="age" value="30"> </property>
-        <property name="lap" ref="lap"> </property> -->
+    <bean id="alien2" class="com.example.Alien" autowire="byType"> <!-- byType-->
+        <property name="age" value="30"> </property>
+        <!-- <property name="com" ref="lap"> </property> -->
+
+        <property name="com">
+            <bean id="lap" class="com.example.Laptop" /> <!-- called inner bean only used by the alien2 name bean-->
+        </property>
 
         <!-- <constructor-arg value="21" />
         <constructor-arg ref="lap" /> -->
@@ -23,13 +27,14 @@
         <!--		<constructor-arg index="1" ref="lap1"/>
 		<constructor-arg index="0" value="21"/> this method is commonly used other that are sequencially taken-->
 		
-		<constructor-arg name="age" value="40"/>
-        <constructor-arg name="lap" ref="lap"/>
+		<!-- <constructor-arg name="age" value="40"/>
+        <constructor-arg name="lap" ref="lap"/> -->
+
+
 
     </bean>
 
-    <bean id="lap" class="com.example.Laptop" >
-
-    </bean>
+    <!-- <bean id="lap" class="com.example.Laptop"  lazy-init="true" />
+    <bean id="desk" class="com.example.Desktop" primary="true"/> -->
 
 </beans>
